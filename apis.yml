@@ -1,7 +1,30 @@
 aid: orbital-therapeutics
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/orbital-therapeutics.png
 name: Orbital Therapeutics
-description: Orbital Therapeutics is a company surfaced as a portfolio company of a16z and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Orbital Therapeutics was a Cambridge, Massachusetts biotechnology company
+  developing next-generation RNA medicines, combining circular and linear RNA,
+  targeted delivery, and AI-guided design across immunomodulation, in vivo
+  CAR-T cell therapy, next-generation vaccines, and protein therapeutics. Its
+  lead program, OTX-201, targeted autoimmune disease through B-cell depletion.
+  Founded out of Beam Therapeutics and backed by ARCH Venture Partners, a16z
+  Bio + Health, and Newpath Partners, the company raised a $270M Series A in
+  2023. In October 2025 Bristol Myers Squibb agreed to acquire Orbital
+  Therapeutics for $1.5 billion; orbitaltx.com now redirects to bms.com. As a
+  therapeutics developer, Orbital publishes no public developer platform, API,
+  or machine-readable API surface, so this record is an identity-only profile
+  in the API Evangelist network.
 url: https://raw.githubusercontent.com/api-evangelist/orbital-therapeutics/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,14 +32,35 @@ x-backed-by:
 - a16z
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: acquired
+x-acquired-by: Bristol Myers Squibb
+x-acquired-announced: '2025-10-10'
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Biotechnology
+- Pharmaceuticals
+- RNA Medicines
+- Cell Therapy
+- Life Sciences
+- CAR-T
+- Vaccines
 apis: []
+common:
+- type: Website
+  url: https://www.orbitaltx.com/
+- type: PressRelease
+  name: BMS to Acquire Orbital Therapeutics
+  url: https://news.bms.com/news/details/2025/Bristol-Myers-Squibb-Strengthens-and-Diversifies-Cell-Therapy-Portfolio-with-Acquisition-of-Orbital-Therapeutics/default.aspx
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 0
+  pass: local-v1
