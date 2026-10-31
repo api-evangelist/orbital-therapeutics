@@ -64,6 +64,34 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Orbital Therapeutics is a company surfaced as a portfolio company of a16z and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: a16z
+Orbital Therapeutics was a Cambridge, Massachusetts biotechnology company developing next-generation RNA medicines, combining circular and linear RNA, targeted delivery, and AI-guided design across immunomodulation, in vivo CAR-T cell therapy, next-generation vaccines, and protein therapeutics. Its lead program, OTX-201, targeted autoimmune disease through B-cell depletion. Founded out of Beam Therapeutics and backed by ARCH Venture Partners, a16z Bio + Health, and Newpath Partners, the company raised a $270M Series A in 2023. In October 2025 Bristol Myers Squibb agreed to acquire Orbital Therapeutics for $1.5 billion; orbitaltx.com now redirects to bms.com. As a therapeutics developer, Orbital publishes no public developer platform, API, or machine-readable API surface, so this record is an identity-only profile in the API Evangelist network.
+
+**Areas:** Company · Biotechnology · Pharmaceuticals · RNA Medicines · Cell Therapy · Life Sciences · CAR-T · Vaccines
+
+## Orbital Therapeutics on APIs.io (historical record)
+
+Everything profiled for Orbital Therapeutics is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/orbital-therapeutics/](https://apis.io/providers/orbital-therapeutics/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.orbitaltx.com/)
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Orbital Therapeutics: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/orbital-therapeutics/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
